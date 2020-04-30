@@ -23,7 +23,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author USER
+ * @author Javier
  */
 public class Reproductor extends javax.swing.JFrame {
 
